@@ -49,7 +49,7 @@
 
 ## 📫 Connect With Me
 
-- ✉️ Email — suchitrakoyya@gmail.com  
+- ✉️ Email — sairamareddykovvuri8@gmail.com  
 - 💼 LinkedIn — *(add link if you’d like)*  
 - 🧾 Portfolio — *(optional if you create one later)*  
 
