@@ -10,7 +10,7 @@
 - 🎓 **Electronics and Communication Engineering** student at Pragati Engineering College (Class of 2027, CGPA: 8.28).
 - 🛠️ **Self-taught MERN Stack Developer** transitioning from ECE to full-stack engineering.
 - ⚡ Specializing in **real-time communication (Socket.io)**, backend logic, and robust API debugging.
-- 🎙️ **Technical Communicator:** I run a tech YouTube channel with **3.5K+ subscribers** breaking down complex coding concepts.
+- 🎙️ **Technical Communicator:** I run a tech YouTube channel with **3.5K+ subscribers** finding out unknown facts.
 - 🧩 **Problem Solver:** Solved **300+ problems on LeetCode**, sharpening my data structures and algorithmic thinking.
 
 ---
