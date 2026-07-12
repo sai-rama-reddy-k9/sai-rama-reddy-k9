@@ -35,13 +35,13 @@
 - **Tech Stack:** React, Node.js, Express, Socket.io, JWT, MongoDB
 - **Key Metrics:** Achieved sub-1-second message delivery verified across 5 concurrent user sessions.
 - **Highlights:** Implemented live typing indicators, online/offline status, and secure JWT-based auth with `sessionStorage` isolation to allow independent logins across multiple browser tabs.
-- 🔗 [Code Repository]([https://github.com/sai-rama-reddy](https://github.com/sai-rama-reddy-k9/whatsapp-web-clone)) 
+- 🔗 [Code Repository](https://github.com/sai-rama-reddy-k9/whatsapp-web-clone)
 
 ### 🔐 Standalone Authentication Microservice
 *A reusable, production-grade security architecture designed as a drop-in service for MERN applications.*
 - **Tech Stack:** React, Node.js, Express.js, MongoDB, JWT, bcrypt, Nodemailer
 - **Highlights:** Features 4 core flows (Registration, Login, Forgot-Password, Password-Reset). Designed a secure token-reset mechanism using hashed, 15-minute expiring tokens. Integrated Nodemailer/Mailtrap for secure transactional emails.
-- 🔗 [Code Repository]([https://github.com/sai-rama-reddy](https://github.com/sai-rama-reddy-k9/authentication-service))
+- 🔗 [Code Repository](https://github.com/sai-rama-reddy-k9/authentication-service)
 
 ---
 
@@ -56,7 +56,7 @@
 ## 🎖️ Certifications & Profiles
 
 - 🤖 **Agentic AI** — Certified by Ready Tensor
-- 📊 [LeetCode Profile]([https://leetcode.com/sai-rama-reddy](https://leetcode.com/u/sairamareddyk01111/)) — 300+ Problems Solved
+- 📊 [LeetCode Profile](https://leetcode.com/u/sairamareddyk01111/) — 300+ Problems Solved
 - 📺 [YouTube Channel](https://www.youtube.com/@quickfactx-3) — 3.5K+ Subscribers
 
 ---
@@ -64,7 +64,7 @@
 ## 📫 Connect With Me
 
 - ✉️ Email: sairamareddy.kovvuri.work@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/sai-rama-reddy]([https://linkedin.com/in/sai-rama-reddy](https://www.linkedin.com/in/venkata-sai-rama-reddy-kovvuri-571b41340/))
+- 💼 LinkedIn: [linkedin.com/in/sai-rama-reddy](https://www.linkedin.com/in/venkata-sai-rama-reddy-kovvuri-571b41340/)
 - 📍 Location: Kakinada, Andhra Pradesh, India
 
 ⭐ *Feel free to explore my repositories, open an issue, or connect if you want to collaborate on MERN stack or real-time web solutions!*
